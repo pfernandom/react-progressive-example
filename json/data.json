@@ -1,0 +1,20 @@
+[
+{
+	"id":1,
+	"name":"Al pastor",
+	"price":"2.45",
+	"description": "Mexico style pork tacos"
+},
+{
+	"id":2,
+	"name":"Beef fajita",
+	"price":"3.45",
+	"description": "Beef fajita tacos, with onion and cilantro"
+},
+{
+	"id":3,
+	"name":"Fish tacos",
+	"price":"3.45",
+	"description": "Fresh fish with onions, letuce and carrots"
+}
+]

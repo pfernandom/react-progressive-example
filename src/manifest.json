@@ -1,0 +1,24 @@
+{
+	"short_name": "Taco Gallery",
+	"name": "My Taco Gallery",
+	"icons": [{
+			"src": "/dist/icons/favicon-32x32.png",
+			"type": "image/png",
+			"sizes": "32x32"
+		},
+		{
+			"src": "/dist/icons/favicon-96x96.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "/dist/icons/favicon-230x230.png",
+			"type": "image/png",
+			"sizes": "230x230"
+		}
+	],
+	"start_url": "index.html?launcher=true",
+	"display": "standalone",
+	"background_color": "white",
+	"theme_color": "#999999"
+}
